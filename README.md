@@ -3,6 +3,21 @@
 
 ![IMG_2303](https://github.com/user-attachments/assets/f8f2235b-6b63-4e27-a703-b41570247211)
 
+
+*************
+## In the Image <br>
+s = sin <br>
+c = cos<br>
+
+sin1 -> sinθ1 <br>
+sin12 -> sin(θ1+θ2) <br>
+sin123 -> sin(θ1+θ2+θ3) <br>
+
+cos1 -> cosθ1 <br>
+cos12 -> cos(θ1+θ2) <br>
+cos123 -> cos(θ1+θ2+θ3) <br>
+*************
+
 *************
 ## FOEWARD 
 **************
@@ -11,7 +26,6 @@ x = L1 cosθ1 + L2 cos(θ1+θ2) + L3 cos(θ1+θ2+θ3) <br>
 y = L1 sinθ1 + L2 sin(θ1+θ2) + L3 sin(θ1+θ2+θ3) <br>
 θ = θ1+θ2+θ3 <br>
 <br> <br> <br>
-
 ********************* 
 ## INVERSE 
 *****************
